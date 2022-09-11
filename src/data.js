@@ -4,22 +4,13 @@ function chillHop() {
     return [
 
         {
-            name:"Vox FM",
-            artist: "¡Activamos tu mente!",
-            cover: "https://i.imgur.com/wQxtunv.png",
-            id: uuidv4(),
-            color: ["#1D2731", "#F17E76"],
-            audio: "http://okradio.rtvhd.net:8130/;stream/1",
-            active: true,
-        },
-        {
             name:"Planeta",
             artist: "Tu música en Inglés",
             cover: "https://i.imgur.com/sydfCHH.png",
             id: uuidv4(),
             color: ["#D7B0D5", "#CBDFE0"],
             audio: "https://24463.live.streamtheworld.com/CRP_PLA_SC?csegid=30008&dist=30008",
-            active: false,
+            active: true,
         },
         {
             name:"Ritmo Romantica",
