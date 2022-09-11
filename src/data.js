@@ -6,7 +6,7 @@ function chillHop() {
         {
             name:"Vox FM",
             artist: "¡Activamos tu mente!",
-            cover: "https://i.imgur.com/DSA9eN6.png",
+            cover: "https://i.imgur.com/wQxtunv.png",
             id: uuidv4(),
             color: ["#1D2731", "#F17E76"],
             audio: "http://okradio.rtvhd.net:8130/;stream/1",
