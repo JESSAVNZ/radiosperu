@@ -4,12 +4,12 @@ function chillHop() {
     return [
 
         {
-            name:"Got Radio The 60's",
-            artist: "60's",
-            cover: "https://png.pngtree.com/png-vector/20190726/ourlarge/pngtree-modern-square-cool-music-for-party-lights-png-image_1629696.jpg",
+            name:"Rpp Noticias",
+            artist: "La voz de todo el Perú",
+            cover: "https://www.cronoco.com/wp-content/uploads/2019/09/rpp-en-vivo-por-internet.jpg",
             id: uuidv4(),
             color: ["#F24933", "#F9B437"],
-            audio: "http://pureplay.cdnstream1.com/6011_128.mp3",
+            audio: "https://us-b5-p-e-kj2-audio.cdn.mdstrm.com/live-audio-aw/5fab3416b5f9ef165cfab6e9?aid=5faaeb72f92d7b07dfe10181&pid=86qVATUBhSJTpgq5dqfiiOomDhBx4ium&sid=VQkTZAPjdf0AYCdMk6L4DbYmOITGJL6l&uid=l6pavsTygoL8ai2t2wgHXjgKvOdwomhY&es=us-b5-p-e-kj2-audio.cdn.mdstrm.com&ote=1663007987961&ot=V3Qke5jQ7QiVdA78QWuzFw&proto=https&pz=us&cP=128000&awCollectionId=5faaeb72f92d7b07dfe10181&liveId=5fab3416b5f9ef165cfab6e9",
             active: true,
         },
         {
