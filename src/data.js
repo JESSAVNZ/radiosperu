@@ -18,7 +18,7 @@ function chillHop() {
             cover: "https://i.imgur.com/cHOE4S5.png",
             id: uuidv4(),
             color: ["#1D2731", "#F17E76"],
-            audio: "https://19253.live.streamtheworld.com/CRP_RIT.mp3?csegid=1010&dist=1010&tdsdk=js-%40td&pname=TDSdk&pversion=%40td&banners=none&sbmid=c7e4ba3c-f57d-4a0c-97e0-dd8dfb3a1f91",
+            audio: "https://bit.ly/RRRomantica",
             active: false,
         },
         {
